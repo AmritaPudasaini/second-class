@@ -1,2 +1,2 @@
 # second-class
-This id my second class.
+This is my second class.
